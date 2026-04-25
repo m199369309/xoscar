@@ -1,0 +1,24 @@
+python/xoscar/backends/communication/socket.py
+  e0c178bb63b52cd2 317-331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.10",
+  "base_commit_sha": "7454313531e522a6a3563710d306d97708121431",
+  "prompts": {
+    "e0c178bb63b52cd2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f01b768f-e491-4270-bf5e-4479efab4a39",
+        "model": "claude-opus-4.6"
+      },
+      "human_author": "郑明再",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 0,
+      "accepted_lines": 15,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f1eba6490504accb503e41a3fa0930d8b4f3cea638e065bff4ad88af206ceabf"
+    }
+  }
+}
