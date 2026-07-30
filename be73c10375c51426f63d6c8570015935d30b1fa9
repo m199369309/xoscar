@@ -1,0 +1,24 @@
+python/xoscar/backends/communication/socket.py
+  fd12bb600de5fdb9 317-320,326-327,331,337-354
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.6",
+  "base_commit_sha": "be73c10375c51426f63d6c8570015935d30b1fa9",
+  "prompts": {
+    "fd12bb600de5fdb9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "08c5b19b-3136-4ff1-b4ef-9926ad168f3f",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "郑明再 <zhengmingzai@cvte.com>",
+      "messages": [],
+      "total_additions": 89,
+      "total_deletions": 8,
+      "accepted_lines": 89,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f75f72bc0f4a936e7c33998edef59260b5f23128a8a0e20af95d146e5e101a95"
+    }
+  }
+}
