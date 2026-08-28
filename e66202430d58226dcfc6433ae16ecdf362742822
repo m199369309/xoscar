@@ -1,0 +1,26 @@
+python/xoscar/virtualenv/uv.py
+  48d5de3c66488052 27,37,119-147,155-157,179-186,282-284,305-311,348-349,371-372,386,395-404,407
+python/xoscar/virtualenv/tests/test_uv.py
+  48d5de3c66488052 684-910
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "e66202430d58226dcfc6433ae16ecdf362742822",
+  "prompts": {
+    "48d5de3c66488052": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04949-d809-7320-9869-30bb812778be",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "郑明再 <zhengmingzai@cvte.com>",
+      "messages": [],
+      "total_additions": 312,
+      "total_deletions": 63,
+      "accepted_lines": 299,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/8a7a345cbab893cc25cbdde0242a0750166b2decc4e6cf72a707fb634bee9d1c"
+    }
+  }
+}
